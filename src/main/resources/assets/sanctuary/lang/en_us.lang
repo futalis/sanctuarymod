@@ -1,0 +1,10 @@
+#English US Language file for Sanctuary
+
+#Creative Tabs
+itemGroup.sanctuary=Sanctuary
+
+#Items
+item.sanctuary:wooden_slow_sword.name=Slow Wooden Sword
+
+#Blocks
+tile.sanctuary:sanctuaryblock.name=Sanctuary Block

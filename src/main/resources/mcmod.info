@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sanctuary",
+  "name": "Sanctuary",
+  "description": "The first steps to something greater",
+  "version": "",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Futalis"],
+  "credits": "The Forge and FML guys, for making forge and fml",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
